@@ -1,5 +1,5 @@
-### Data analyst on retail/whole sale company.
-# Decision making to cancel some product from shelf.
+# Data analyst on retail/whole sale company.
+### Decision making to cancel some product from shelf.
 key factors that I need to know are
 1. % loss of that product.
 2. % GP of that product.
